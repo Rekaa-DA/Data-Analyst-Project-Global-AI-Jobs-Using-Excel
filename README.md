@@ -1,15 +1,9 @@
 
-# 📊🤖 AI Jobs Data Analysis 
+# 📊🤖 Global AI Jobs Data Analysis 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
-</p>
+Dashboard Preview
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Jobs-Analytics-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
-</p>
+<img width="1846" height="738" alt="image" src="https://github.com/user-attachments/assets/96cfb877-7273-4b29-bc33-c5b7bb02eff9" />
 
 ---
 
