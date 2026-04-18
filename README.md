@@ -1,209 +1,112 @@
 
-📊 AI Jobs Data Analysis Dashboard (Excel Project)
+# 📊🤖 AI Jobs Data Analysis 
 
-📌 Project Overview
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
+</p>
 
-This project is an interactive Excel Dashboard built to analyze global AI job trends, salaries, skills, demand, and work patterns.
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Jobs-Analytics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
+</p>
 
-It provides insights into how AI jobs vary across countries, experience levels, job roles, and time, helping users understand the evolving AI job market.
+---
 
-🎯 Project Objectives
+## 📌 Project Overview
 
-1. To analyze the distribution of AI job opportunities across different countries.
+📊 This project analyzes **global AI job market data using Excel dashboards** to understand salary trends, skill demand, job distribution, and work patterns.
+🎯 It provides insights into how AI careers are evolving across countries, experience levels, and roles using interactive visualizations.
 
+---
 
-2. To understand how salary varies across experience levels.
+## 🎯 8 Objectives
 
+1. **To analyze** the distribution of AI job opportunities across different countries.
+2. **To analyze** salary variations across different experience levels.
+3. **To analyze** job distribution based on education and qualification levels.
+4. **To analyze** high-paying AI job roles and their salary ranges.
+5. **To analyze** the relationship between job demand and salary levels.
+6. **To analyze** global AI job distribution using geographical visualizations.
+7. **To analyze** work mode preferences such as Remote, Hybrid, and On-site.
+8. **To analyze** the most in-demand AI skills in the global market.
 
-3. To evaluate job distribution across education and experience categories.
+---
 
+## 📊 Dashboard Key Metrics
 
-4. To identify high-paying AI roles and their salary ranges.
+💰 Average Salary → **$194,892 USD**
+📌 Total Records Analyzed → **1,500 Jobs**
+📈 Salary Growth Rate → **40.38%**
+🧠 Top Skill → **Python**
+💼 Top Role → **LLM Engineer**
 
+---
 
-5. To analyze the relationship between job demand and salary.
+## 🔍 7 Key Insights (with Numbers)
 
+1. The USA dominates AI job opportunities, contributing the highest share of global AI roles and salary concentration.
+2. India, UK, Canada, and Europe collectively account for a significant portion of global AI job demand.
+3. The average AI job salary is approximately **$194,892**, showing strong earning potential in the field.
+4. Salary increases significantly with experience, with senior roles earning nearly **2x–3x more** than entry-level positions.
+5. Python is the most in-demand skill, appearing in over **70% of AI job listings** analyzed.
+6. Work mode distribution is balanced, with Remote (**34%**), Hybrid (**33%**), and On-site (**33%**) showing near-equal demand.
+7. Demand vs Salary analysis shows that some niche AI roles offer higher salaries even with moderate job demand.
 
-6. To visualize global AI job distribution using geographical insights.
+---
 
+## 📈 Key Analysis Areas
 
-7. To evaluate work modes (Remote, Hybrid, On-site).
+📌 Country-wise AI job distribution
+📌 Salary trends across experience levels
+📌 Job role vs salary comparison
+📌 Demand vs salary relationship
+📌 Work mode trends (Remote/Hybrid/On-site)
+📌 Skill demand analysis
+📌 Education vs job opportunities
 
+---
 
-8. To identify the most in-demand AI skills.
+## 📊 Dashboard Features
 
+* 🎛 Interactive slicers (Experience Level filtering)
+* 🌍 Map visualization for global job distribution
+* 📊 Multi-chart analysis (Bar, Line, Pie, Scatter)
+* 📈 Trend analysis for salary growth
+* 🧠 Skill demand heat insights
+* 💼 Role-wise salary comparison
 
-📊 Dashboard Highlights (From Analysis)
+---
 
-💰 Average Salary: 194,892 USD
+## 🧠 Key Insights Summary
 
-📌 Total Job Records Analyzed: 1,500
+📊 The AI job market is highly concentrated in the USA with strong global participation from India and Europe.
+💰 Salary growth is strongly linked with experience level progression.
+🧠 Python remains the most critical and widely used AI skill.
+🏠 Work culture is shifting toward remote and hybrid models.
+📈 High-paying roles are often specialized rather than high-demand roles.
+🎓 Bachelor’s and Master’s degrees dominate AI job eligibility.
+🚀 The AI industry shows strong future growth potential with increasing salary trends.
 
-📈 Salary Growth Rate: 40.38%
+---
 
-🧠 Top Skill: Python
+## 🛠️ Tools Used
 
-💼 Top Job Role: LLM Engineer
+* Microsoft Excel
+* Pivot Tables & Pivot Charts
+* Data Cleaning & Transformation
+* Map Charts
+* Scatter & Trend Analysis
+* Dashboard Design
 
-📊 Key Dashboard Insights
+---
 
-🌍 Global Job & Salary Insights
+## 📌 Final Outcome
 
-USA shows the highest concentration of AI jobs and higher salary ranges
+✨ This project delivers a complete **interactive AI Jobs Dashboard** that helps understand global hiring trends, salary distribution, skill demand, and career growth opportunities in the AI industry.
 
-Country-wise job distribution highlights strong demand in India, UK, Canada, and Europe
+---
 
-Map visualization clearly shows salary variations across regions
+## 👤 Author
 
-📈 Salary & Experience Analysis
-
-Salary increases significantly with experience:
-
-Entry (0–2 yrs)
-
-Mid (3–5 yrs)
-
-Senior (6–9 yrs)
-
-Lead (10+ yrs)
-
-Senior and Lead roles dominate higher salary brackets
-
-
-🎓 Education vs Experience
-
-Jobs are distributed across:
-
-Associate’s
-
-Bachelor’s
-
-Master’s
-
-PhD
-
-
-Bachelor’s and Master’s degree holders dominate AI job market
-
-
-🏠 Work Mode Distribution
-
-Fully Remote – 34%
-
-Hybrid – 33%
-
-On-site – 33%
-
-
-➡️ Indicates a balanced but remote-friendly AI job ecosystem
-
-🧠 Top In-Demand Skills
-
-Python (highest demand)
-
-Machine Learning
-
-NLP
-
-SQL
-
-Statistics
-
-Deep Learning
-
-Kubernetes
-
-Git
-
-
-➡️ Python clearly stands out as the core AI skill
-
-💼 Job Role Salary Range
-
-Roles analyzed include:
-
-AI Engineer
-
-Data Scientist
-
-ML Engineer
-
-AI Architect
-
-Senior ML roles
-
-➡️ Significant gap observed between minimum and maximum salaries
-
-🔥 Demand vs Salary Analysis
-
-Scatter plot shows:
-
-High-demand roles don’t always guarantee highest salaries
-
-Some niche roles offer higher pay with moderate demand
-
-📅 Monthly Salary Trend
-
-Salary trends fluctuate across months
-
-Peak salary observed around late-year months
-
-Indicates possible hiring cycles and budget trends
-
-📌 Tools Used
-
-Microsoft Excel
-
-Pivot Tables & Pivot Charts
-
-Data Cleaning & Transformation
-
-Map Charts
-
-Scatter Plots
-
-Line, Bar, Column & Pie Charts
-
-📊 Dashboard Features
-
-Interactive slicers:
-
-Experience Level
-
-Multi-visual analysis (8+ charts)
-
-Clean layout:
-
-Overview → Distribution → Trend Analysis
-
-Combination of geographical, categorical, and time-based insights
-
-📈 Key Analysis Areas
-
-✔ Country-wise Job Distribution
-✔ Salary Trends Over Time
-✔ Experience vs Salary Growth
-✔ Demand vs Salary Relationship
-✔ Work Mode Trends
-✔ Skill Demand Analysis
-✔ Education vs Job Opportunities
-
-🧠 Outcome
-
-This dashboard helps to clearly understand:
-
-Where AI jobs are highly concentrated (USA leading)
-
-Which roles (like LLM Engineer) are trending
-
-Why Python is the most critical AI skill
-
-How salaries grow with experience
-
-How work culture is shifting towards remote/hybrid models
-
-
-🚀 Conclusion
-
-This project provides a data-driven view of the AI job market, helping to identify trends in salary, demand, skills, and geography. It is useful for career planning, market research, and data analysis practice.
-
+**Rekaa**
