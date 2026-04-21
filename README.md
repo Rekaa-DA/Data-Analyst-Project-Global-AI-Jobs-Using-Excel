@@ -57,7 +57,6 @@ Descriptive → $194,892 avg salary
 Diagnostic → Driven by USA & experienced professionals
 Predictive → Continued strong salary growth trend
 Prescriptive → Focus on high-demand skills like Python
-
 📌 Final Conclusion
 Analysis based on 1,500+ job records
 Average salary → $194,892 USD
@@ -72,9 +71,6 @@ Microsoft Excel
 Pivot Tables & Charts
 Data Cleaning & Transformation
 Dashboard Design
-👤 Author
-
-Rekaa
 
 Rekaa
 📊 Aspiring Data Analyst
