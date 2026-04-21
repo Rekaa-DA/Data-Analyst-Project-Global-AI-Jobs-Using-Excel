@@ -37,7 +37,7 @@ Dashboard Preview
 
 ---
 
-## 🔍 7 Key Insights (with Numbers)
+## 🔍 7 Key Insights 
 
 1. The USA dominates AI job opportunities, contributing the highest share of global AI roles and salary concentration.
 2. India, UK, Canada, and Europe collectively account for a significant portion of global AI job demand.
